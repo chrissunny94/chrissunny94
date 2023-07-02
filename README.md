@@ -103,4 +103,16 @@ I am focusing on skilling up on
 
 </br>
 
+
+
+### Social and Professional Reach:
+</br>
+
+[![Instagram Badge](?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/christartaria/?hl=en)](https://www.instagram.com/christartaria/?hl=en)
+
+
+
+
+---
+
 ###### 💾 EOF
