@@ -17,3 +17,56 @@ I am focusing on skilling up on
 - Lidar and Point cloud operations
 - SLAM
 - Deep learning
+
+
+
+### Skills:
+
+* **Languages**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=plastic&logo=C%2B%2B)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=plastic&logo=CMake)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=C)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=LaTex)
+
+* **Editors and IDEs**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=plastic&logo=PyCharm)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-000000?style=plastic&logo=Sublime-Text)
+
+* **VCS**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=GitLab)
+
+* **Prototyping Boards**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+
+
+* **Operating Systems**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white)
+
+
+* **Software and Frameworks**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=plastic&logo=ROS)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=plastic&logo=Unity)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=plastic&logo=Docker)
+
+
+
+
+###### 💾 EOF
