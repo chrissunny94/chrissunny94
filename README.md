@@ -68,5 +68,17 @@ I am focusing on skilling up on
 
 
 
+---
+
+### Profile Statistics
+</br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-chrissunny94)
+
+![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=chrissunny94&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=chrissunny94&hide=TeX&layout=compact&theme=radical)
+
+---
+
 
 ###### 💾 EOF
