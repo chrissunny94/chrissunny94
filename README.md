@@ -13,11 +13,6 @@ EX
 - RBEI
 - Electric Sheep Robotics
 
-I am a jack of many traits and master of few . Pursing interests in Robotics made me quite comfortable with 
-
-- Arduino
-- Embedded
-- Linux
 
 I am well versed with ROS stack and see myself as an integrator with extensive knowledge on 
 - middle ware
