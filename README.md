@@ -3,6 +3,16 @@ Hello world!
 Chris here , i am fond of Robotics and ADAS . I come with a Bachelors degree in computer science from Shiv Nadar University .
 Currently pursing a Mtech in AIML from IIT-Jammu .
 
+Working as a Senior software Engg at MBRDI .
+
+EX
+
+- Vanora Robots
+- Ubiquity RObotics
+- Arway
+- RBEI
+- Electric Sheep Robotics
+
 I am a jack of many traits and master of few . Pursing interests in Robotics made me quite comfortable with 
 
 - Arduino
