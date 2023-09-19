@@ -23,7 +23,11 @@ I am focusing on skilling up on
 - SLAM
 - Deep learning
 
-https://www.hackerrank.com/chrissunny94
+PUBLIC PROFILES
+
+- https://www.hackerrank.com/chrissunny94
+- https://leetcode.com/chrissunny94/
+- https://www.kaggle.com/christhaliyath
 
 ### Skills:
 
